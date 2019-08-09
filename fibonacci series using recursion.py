@@ -1,7 +1,7 @@
 def caller():
     n=int(input("How many terms:- "))
     for i in range(0,n):
-      print(fibonacacci(i))
+      print(fibonacci(i))
       i+=1
 
 def fibonacci(i):

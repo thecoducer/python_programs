@@ -1,0 +1,65 @@
+//Edit the config-highlight.def file
+//Paste the desired theme conf. there
+//open IDLE
+//go to options>configure IDLE>highlighting>select theme
+
+
+[Obsidian]
+definition-foreground = #678CB1
+error-foreground = #FF0000
+string-background = #293134
+keyword-foreground = #93C763
+normal-foreground = #E0E2E4
+comment-background = #293134
+hit-foreground = #E0E2E4
+builtin-background = #293134
+stdout-foreground = #678CB1
+cursor-foreground = #E0E2E4
+break-background = #293134
+comment-foreground = #66747B
+hilite-background = #2F393C
+hilite-foreground = #E0E2E4
+definition-background = #293134
+stderr-background = #293134
+hit-background = #000000
+console-foreground = #E0E2E4
+normal-background = #293134
+builtin-foreground = #E0E2E4
+stdout-background = #293134
+console-background = #293134
+stderr-foreground = #FB0000
+keyword-background = #293134
+string-foreground = #EC7600
+break-foreground = #E0E2E4
+error-background = #293134
+
+
+[Monokai]
+
+cursor-foreground     = #ffffff
+normal-background     = #272822
+normal-foreground     = #f8f8f2
+keyword-background    = #272822
+keyword-foreground    = #66d9ef
+builtin-background    = #272822
+builtin-foreground    = #f92672
+definition-background = #272822
+definition-foreground = #a6e22e
+string-background     = #272822
+string-foreground     = #e6db74
+comment-background    = #272822
+comment-foreground    = #75715e
+stdout-background     = #272822
+stdout-foreground     = #e6db74
+stderr-background     = #272822
+stderr-foreground     = #f92672
+console-background    = #272822
+console-foreground    = #bca3a3
+hilite-background     = #3e3d32
+hilite-foreground     = #e6db74
+error-background      = #ff7777
+error-foreground      = #000000
+hit-background        = #000000
+hit-foreground        = #ffffff
+break-background      = #000000
+break-foreground      = #ffffff
